@@ -92,6 +92,13 @@ var layerTypes = [
       en: 'drill hits'
     },
     match: /\.((fab\.gbr)|(cnc)|(drl)|(xln)|(txt)|(tap)|(drd)|(exc))/i
+  },
+  {
+    id: undefined,
+    name: {
+      en: 'catch all'
+    },
+    match: /.*/
   }
 ]
 
