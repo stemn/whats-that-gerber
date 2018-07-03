@@ -1,6 +1,6 @@
 {
-  "name": "whats-that-gerber",
-  "version": "2.1.1",
+  "name": "@stemn/whats-that-gerber",
+  "version": "2.1.2",
   "description": "Guesses the PCB layer type given a filename of a Gerber or drill file",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,8 @@
   ],
   "contributors": [
     "Mike Cousins <mike@cousins.io> (http://cousins.io)",
-    "Kaspar Emanuel <kaspar@monostable.co.uk> (http://monostable.co.uk)"
+    "Kaspar Emanuel <kaspar@monostable.co.uk> (http://monostable.co.uk)",
+    "Jackson Delahunt <jackson@stemn.com> (http://jacksondelahunt.com)"
   ],
   "license": "ISC",
   "bugs": {
